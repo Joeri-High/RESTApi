@@ -1,0 +1,12 @@
+C:\Users\joeri\OneDrive\Documenten\Joeri_de_Hoog\VSC_Projects\RESTApi\bin\Debug\net5.0\RESTApi.exe
+C:\Users\joeri\OneDrive\Documenten\Joeri_de_Hoog\VSC_Projects\RESTApi\bin\Debug\net5.0\RESTApi.dll
+C:\Users\joeri\OneDrive\Documenten\Joeri_de_Hoog\VSC_Projects\RESTApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\joeri\OneDrive\Documenten\Joeri_de_Hoog\VSC_Projects\RESTApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\joeri\OneDrive\Documenten\Joeri_de_Hoog\VSC_Projects\RESTApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\joeri\OneDrive\Documenten\Joeri_de_Hoog\VSC_Projects\RESTApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\joeri\OneDrive\Documenten\Joeri_de_Hoog\VSC_Projects\RESTApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\joeri\OneDrive\Documenten\Joeri_de_Hoog\VSC_Projects\RESTApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\joeri\OneDrive\Documenten\Joeri_de_Hoog\VSC_Projects\RESTApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\joeri\OneDrive\Documenten\Joeri_de_Hoog\VSC_Projects\RESTApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\joeri\OneDrive\Documenten\Joeri_de_Hoog\VSC_Projects\RESTApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\joeri\OneDrive\Documenten\Joeri_de_Hoog\VSC_Projects\RESTApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
